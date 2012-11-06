@@ -1,0 +1,25 @@
+{
+	"auto_upgrade_last_run": 1352231677,
+	"installed_packages":
+	[
+		"CSS Snippets",
+		"CSSSnippets",
+		"emmet-sublime",
+		"Gist",
+		"jQuery",
+		"LESS",
+		"LoremIpsum",
+		"Package Control",
+		"PhpTidy",
+		"Quickfind",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"Tag",
+		"ZenCoding"
+	],
+	"repositories":
+	[
+		"https://github.com/sergeche/emmet-sublime"
+	]
+}

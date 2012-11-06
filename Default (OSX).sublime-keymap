@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+shift+o"], "command": "insert_snippet", "args": { "name": "Packages/CSSSnippets/darken.sublime-snippet" } },
+	{ "keys": ["ctrl+shift+h"], "command": "insert_snippet", "args": { "name": "Packages/CSSSnippets/wrap_as_link.sublime-snippet" } },
+	{ "keys": ["super+shift+r"], "command": "reindent"}
+]
